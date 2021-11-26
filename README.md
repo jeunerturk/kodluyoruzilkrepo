@@ -9,9 +9,12 @@ Console.WriteLine("Ödev reposu");
 ````
 ---
 
-*Ödev
-*İçin
-*Oluşturulmuştur
+- Ödev
+- İçin
+- Oluşturulmuştur
+
+ 
+
 
 
 |Ödev|İçin|Oluşturulmuştur|

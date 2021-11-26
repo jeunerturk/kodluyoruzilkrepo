@@ -18,7 +18,7 @@ Console.WriteLine("Ödev reposu");
 
 
 |Ödev|İçin|Oluşturulmuştur|
-|---|---|---|
+|:---:|:---:|:---:|
 |Gördüğünüz|Bu|Repo|
 
 ---
